@@ -1,0 +1,73 @@
+/* CSS Document */
+/* Author: Zack Cline
+date: 2/08/2024
+File Name: styles.css 
+*/ 
+
+
+
+body, h1, h2, block-quote, table {
+
+}
+
+.cute-font-regular {
+  font-family: "Cute Font", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+	background-color:#F280B6;
+	font-family: "Cute Font", sans-serif;
+}
+
+nav{
+	padding: 1%;
+	margin-bottom: 1%;
+	text-align: center;
+	background-color:#6CC5D9;
+}
+
+main {
+	font-size: 20px;
+}
+
+a {
+ 	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+	margin: 0 10px;
+}
+
+img{
+	max-width: 100%;
+	display: block;
+	float: left;
+	
+}
+
+#concept {
+	width:30%;
+	height: 50%;
+	float: right;
+	margin:5px;
+	margin-right: 300px;
+}
+
+#app{
+	max-width:100%;
+	height: 50% 
+}
+header img{
+		margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align:center;
+	font-weight:bold;
+}
+
